@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="./me.png">
+<img align="right" alt="" height="300px" src="./me.jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7D0CB1&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+%C3%8Dtalo+Braz!)](https://git.io/typing-svg)
 
