@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7D0CB1&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+%C3%8Dtalo+Braz!)](https://git.io/typing-svg)
 
 
-<p align="left">Sou atualmente um estudande do primeiro período de Ciências da Computação (Faculdade Nova Roma - Recife), estudei no SENAC-PE, onde finalizei meu ensino médio e integrado ao técnico de Informática. Pretendo me tornar um programador fullstack mas por enquanto minhas aventuras estão mais focadas no front-end, minhas principais tecnologias são HTML, CSS e Javascript onde foco minhas produções em sites e aplicações web. Apesar de estar focado no front sempre procuro e pesquiso novas tecnologias para me manter atualizado no mundo tech, constantemente evoluindo meu repertório para criação de novos repositórios!
+<p align="left">Sou atualmente um estudande do segundo período de Ciências da Computação (Faculdade Nova Roma - Recife), estudei no SENAC-PE, onde finalizei meu ensino médio e integrado ao técnico de Informática. Pretendo me tornar um programador fullstack mas por enquanto minhas aventuras estão mais focadas no front-end, minhas principais tecnologias são HTML, CSS e Javascript onde foco minhas produções em sites e aplicações web. Apesar de estar focado no front sempre procuro e pesquiso novas tecnologias para me manter atualizado no mundo tech, constantemente evoluindo meu repertório para criação de novos repositórios!
 
 
 <h3 align="left">Connect with me!</h3>
