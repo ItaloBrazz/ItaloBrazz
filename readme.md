@@ -33,7 +33,7 @@ Estou continuamente expandindo meus conhecimentos em novas tecnologias e buscand
 
 <h3>GitHub Stats</h3>
 
-[![ItaloBrazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBrazz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ItaloBrazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBrazz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
