@@ -1,9 +1,10 @@
-<img align="right" alt="" height="300px" src="./me.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7D0CB1&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+%C3%8Dtalo+Braz!)](https://git.io/typing-svg)
 
 
-<p align="left">Sou atualmente um estudande do terceiro período de Ciências da Computação (Faculdade Nova Roma - Recife), estudei no SENAC-PE, onde finalizei meu ensino médio e integrado ao técnico de Informática. Pretendo me tornar um programador fullstack mas por enquanto minhas aventuras estão mais focadas no front-end, minhas principais tecnologias são HTML, CSS, SQL, TS e JS e onde foco minhas produções em sites e aplicações web. Apesar de estar focado no front sempre procuro e pesquiso novas tecnologias para me manter atualizado no mundo tech, constantemente evoluindo meu repertório para criação de novos repositórios!
+<p align="left">Atualmente no 4º período de Ciência da Computação na Faculdade Nova Roma (Recife), com uma base sólida adquirida no SENAC-PE no Técnico em Informática. Meu foco está no desenvolvimento backend, com experiência em Java, Python, TypeScript, React, Next.js e NestJS.
+
+Estou continuamente expandindo meus conhecimentos em novas tecnologias e buscando práticas avançadas de desenvolvimento para criar soluções completas e eficientes. Com o objetivo de me tornar um desenvolvedor fullstack, tenho explorado tanto a construção de APIs robustas quanto a integração de sistemas, sempre com foco em escalabilidade e performance.
 
 
 <h3 align="left">Connect with me!</h3>
@@ -32,8 +33,7 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItaloBrazz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=20&hide=issues&bg_color=000&title_color=7D0CB1&text_color=FFF&border_radius=3&border_color=36123c&icon_color=7D0CB1&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItaloBrazz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_height=24&count=4&show_icons=true&title_color=7D0CB1&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=36123c&count_private=true)](https://github.com/ItaloBrazz/github-readme-stats)
+[![ItaloBrazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBrazz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
