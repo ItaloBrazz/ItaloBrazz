@@ -75,13 +75,6 @@ Estou sempre aberto para conversar sobre tecnologia, trocar ideias sobre projeto
 
 ---
 
-<div align="center">
-
-### 💭 Quote do Dia
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 <img src="https://komarev.com/ghpvc/?username=ItaloBrazz&color=7D0CB1&style=flat-square&label=Visitantes" alt="Profile views" />
 
 **✨ Feito com 💜 e muito código!**
